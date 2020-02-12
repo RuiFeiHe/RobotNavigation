@@ -12,7 +12,7 @@ Course Project, EE 86120080 Robotics, ZJU, 2019 Fall.
 
 ![image](https://github.com/RuiFeiHe/RobotNavigation/blob/master/RobotNavigation.png)
 
-
+<img width="500" height="350" src="https://github.com/RuiFeiHe/RobotNavigation/blob/master/RobotNavigation.png"/>
 
 ### Methodology
 
